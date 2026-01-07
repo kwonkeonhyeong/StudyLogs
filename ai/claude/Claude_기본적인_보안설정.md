@@ -158,3 +158,9 @@ CLI에서 현재 권한 규칙을 확인할 수 있습니다:
 - **Sandbox 설정**: https://code.claude.com/docs/en/settings#sandbox-settings
 - **Permission Modes**: https://code.claude.com/docs/en/settings#permission-modes
 - **Hooks 설정**: https://code.claude.com/docs/en/hooks
+
+---
+
+## 보안 문제 자료
+
+https://www.querypie.com/features/documentation/blog/22/ai-agent-security-replit-case
